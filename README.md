@@ -9,4 +9,5 @@
 - 😄 Pronouns: She/Her...
 - ⚡ Fun fact: I love watching men soccer...
 
-3rd july 2023
+3rd july 2023 Monday
+We had our first training with William and got introduced to Operating systems (Linux, BDS and Windows) as well as version control using github
