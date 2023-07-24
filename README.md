@@ -71,5 +71,14 @@ Trunking (Access & trunk links). Access points tag and untag frames as they trav
 
 Today Friday 14th July, I got to attend the Tecnical team meeting for last quater's reports. 
 
+WEEK4
+This was the networks team's week. 
+I got introduced to basic configurations on routers using simulation environements like GNS3 and Packet Tracer
+for GNS3 i got to configure vlans and routing protocols like OSPF and ISIS.
+I got to visit the RENU data centre at MU-JHU to have a physical feel of an actual network.
+On Friday I attended the RENU town hall and later happy hour. 
+
+The week was intese with a lot if assignements but i managed to sail through
+
 
  
