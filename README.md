@@ -79,6 +79,9 @@ I got to visit the RENU data centre at MU-JHU to have a physical feel of an actu
 On Friday I attended the RENU town hall and later happy hour. 
 
 The week was intese with a lot if assignements but i managed to sail through
-
+### WEEK 5 ###
+This was the systems week and our facilitators were Swaib, Fred and Brenda. 
+I majorly took away the exploration we did on the linux OS majorly the commands as well as the text editors but as well we got reading materials and assignments to cover the entire week. 
+This was a very interesting week with a lot of new things to learn as well as a session on GPA. (Group Personal Accidents).
 
  
